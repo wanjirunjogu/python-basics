@@ -2,7 +2,7 @@
 x = 10 # type int
 print(x)
 
-y = "James Nyakundi" # type String
+y = "Wanjiru Njogu" # type String
 print(y)
 print("My full name is: " + y) # Concatination
 
@@ -12,5 +12,5 @@ print(a,b,c)
 
 
 #Re-assigining Variables
-y = 'Mary Wanjiru Nyakundi' #goals
+y = 'Mary Wanjiru' #goals
 print(y)

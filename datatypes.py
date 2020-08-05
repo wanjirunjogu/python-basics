@@ -6,7 +6,7 @@
 # Boolean Type:	bool
 
 # String data type
-y = "James Nyakundi"
+y = "Wanjiru Njogu"
 print(type(y))
 
 # Int data type
@@ -18,7 +18,7 @@ t = 30.02
 print(type(t))
 
 # List data type
-z = ["James","Nyakundi","Mosinya"]
+z = ["Mary","Wanjiru","Njogu"]
 print(type(z)) 
 
 # Tuple data type 
